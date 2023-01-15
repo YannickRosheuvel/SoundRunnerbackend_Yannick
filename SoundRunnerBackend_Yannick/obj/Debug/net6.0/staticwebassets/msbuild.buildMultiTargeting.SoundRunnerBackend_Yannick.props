@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoundRunnerBackend_Yannick.props" />
+</Project>
